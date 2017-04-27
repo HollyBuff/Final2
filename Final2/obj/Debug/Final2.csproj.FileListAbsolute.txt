@@ -1,0 +1,9 @@
+C:\Users\Holly\Desktop\C#\Final2\Final2\bin\Debug\Final2.exe.config
+C:\Users\Holly\Desktop\C#\Final2\Final2\bin\Debug\Final2.exe
+C:\Users\Holly\Desktop\C#\Final2\Final2\bin\Debug\Final2.pdb
+C:\Users\Holly\Desktop\C#\Final2\Final2\obj\Debug\Final2.Form1.resources
+C:\Users\Holly\Desktop\C#\Final2\Final2\obj\Debug\Final2.Properties.Resources.resources
+C:\Users\Holly\Desktop\C#\Final2\Final2\obj\Debug\Final2.csproj.GenerateResource.Cache
+C:\Users\Holly\Desktop\C#\Final2\Final2\obj\Debug\Final2.exe
+C:\Users\Holly\Desktop\C#\Final2\Final2\obj\Debug\Final2.pdb
+C:\Users\Holly\Desktop\C#\Final2\Final2\obj\Debug\Final2.Form2.resources
